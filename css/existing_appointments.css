@@ -1,0 +1,24 @@
+td, th {
+	padding: 2px;
+	border: 1px solid black;
+	position: relative;
+	padding: 4px;
+}
+
+table {
+	text-align: center;
+}
+
+.buttonHolder {
+	width: 78px;
+	height: 38px;
+}
+
+.button {
+	width: 70px;
+	height: 30px;
+	
+	position: absolute;
+	top: 4px;
+	left: 4px;
+}

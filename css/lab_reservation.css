@@ -1,0 +1,12 @@
+#reservationSeriesTable th, td {
+	border: 1px solid black;
+	padding: 4px;
+}
+
+#reservationSeriesTable th {
+	text-align: center;
+}
+
+#reservationSeriesTable input[type='radio'] {
+	margin: 0 5px 0 15px;
+}

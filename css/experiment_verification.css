@@ -1,0 +1,27 @@
+.input {
+	width:75px; 
+}
+.inputCell { 
+	text-align:center; 
+	vertical-align:middle; 
+}
+.attended {
+	float: left;
+	padding: 0 0 0 7px;
+}
+.unattended {
+	float: right;
+	padding: 0 7px 0 0;
+}
+td, th { 
+	padding: 5px; 
+}
+th { 
+	text-align:center; 
+}
+tr { 
+	height: 25px; 
+}
+td {
+	text-align:center;
+}
